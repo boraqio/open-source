@@ -7,64 +7,75 @@
 </p>
 
 <p align="center">
-  Welcome to <strong>Boraq's</strong> open-source home — the central hub for all open-source projects, guidelines, and community resources maintained by <a href="https://boraq.io">Boraq</a>.
+  The public open-source hub for <a href="https://boraq.io"><strong>Boraq</strong></a> — a remote software and AI engineering company building practical, high-impact technology.
 </p>
 
 ---
 
-## 🌐 About Boraq
+## Who We Are
 
-[Boraq](https://boraq.io) is a technology company committed to building innovative solutions. We believe in the power of open source and actively contribute back to the community that has given us so much.
+Boraq is an innovation-driven engineering organization focused on solving real business challenges through:
 
-Visit us at **[boraq.io](https://boraq.io)** to learn more about who we are and what we do.
+- Scalable software architecture
+- Applied AI systems and automation
+- Product-grade UX and interface design
+- Reliable delivery with strong engineering standards
 
----
-
-## 📦 Projects
-
-This repository serves as the entry point for all of Boraq's open-source initiatives. Below you will find our active projects:
-
-| Project | Description | Status |
-|---------|-------------|--------|
-| *(More projects coming soon)* | | |
-
-> Each project lives in its own repository under the [boraqio](https://github.com/boraqio) GitHub organization.
+Our mission is simple: build useful technology that creates measurable value.
 
 ---
 
-## 🤝 Contributing
+## What You’ll Find Here
 
-We welcome contributions from the community! Whether it's filing a bug report, suggesting a feature, improving documentation, or submitting a pull request — every contribution matters.
+This repository is the starting point for Boraq’s open-source work.
 
-Please read our **[Contributing Guidelines](CONTRIBUTING.md)** before getting started.
+- Shared resources and references
+- Community-facing standards and guidance
+- Links to public projects under the [boraqio GitHub organization](https://github.com/boraqio)
 
-### Quick Start
-
-1. **Fork** the repository you want to contribute to.
-2. **Clone** your fork locally.
-3. **Create** a new branch for your changes (`git checkout -b feature/my-feature`).
-4. **Make** your changes and commit them with a clear message.
-5. **Push** your branch and open a **Pull Request**.
+As new projects are published, they will be listed and documented from this hub.
 
 ---
 
-## 📜 Code of Conduct
+## Core Expertise
 
-We are committed to providing a welcoming and inclusive environment. All participants are expected to uphold our **[Code of Conduct](CODE_OF_CONDUCT.md)**.
+Our open-source contributions are informed by experience across:
 
----
-
-## 📄 License
-
-Unless otherwise specified, all projects in this organization are released under the **[MIT License](LICENSE)**.
-
----
-
-## 📬 Contact
-
-- 🌍 Website: [boraq.io](https://boraq.io)
-- 🐙 GitHub: [github.com/boraqio](https://github.com/boraqio)
+- Web and mobile engineering
+- Design systems and user experience
+- AI infrastructure and multi-agent workflows
+- Vision, voice, and intelligent automation
+- Edge and IoT-integrated systems
 
 ---
 
-<p align="center">Made with ❤️ by the Boraq team and our amazing contributors.</p>
+## Snapshot
+
+- 32+ projects delivered
+- 28+ global clients served
+- 98% client retention
+- 5.0/5 verified client satisfaction
+
+---
+
+## Contributing
+
+We welcome thoughtful contributions from the community.
+
+1. Fork the target repository from the organization.
+2. Create a feature branch.
+3. Make focused changes with clear commit messages.
+4. Open a pull request with context and rationale.
+
+If your contribution includes bug fixes, docs improvements, or developer tooling enhancements, it is especially appreciated.
+
+---
+
+## Contact
+
+- Website: [boraq.io](https://boraq.io)
+- GitHub: [github.com/boraqio](https://github.com/boraqio)
+
+---
+
+<p align="center">Built with care by Boraq and the open-source community.</p>
